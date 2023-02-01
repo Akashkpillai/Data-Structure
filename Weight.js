@@ -19,7 +19,7 @@ graph.addNode("B")
 graph.addNode("C")
 
 graph.addEdge('A','B',9)
-graph.addEdge('A','C',10)
+// graph.addEdge('A','C',10)
 graph.addEdge('B','C',6)
 
 console.log(graph.edge);
